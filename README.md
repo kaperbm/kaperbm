@@ -10,8 +10,7 @@ I am Kacper Bohaczyk
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Java" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Java" width="50" height="50">
 
 <!--
 **kaperbm/kaperbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
