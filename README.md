@@ -6,6 +6,12 @@ I am Kacper Bohaczyk
 - 🌱 I’m currently learning R php python etc.
 - 📫 How to reach me: You can reach me through my email kacperbohaczyk@gmail.com
 
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+
 <!--
 **kaperbm/kaperbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
