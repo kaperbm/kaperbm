@@ -10,7 +10,7 @@ I am Kacper Bohaczyk
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Java" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Java" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Css" width="50" height="50"> 
 
 
 
