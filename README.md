@@ -2,7 +2,7 @@
 I am Kacper Bohaczyk
 
 
-- 🔭 I’m currently working on my Diploma 'sustainable-education' for the Uiversity of Vienna
+- 🔭 I’m currently working on my Diploma 'sustainable-education' for the University of Vienna
 - 🌱 I’m currently learning the programing languages 'python', 'C#' 
 - 📫 How to reach me: You can reach me through my email kacperbohaczyk@gmail.com
 
